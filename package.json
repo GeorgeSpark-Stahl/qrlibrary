@@ -1,0 +1,17 @@
+{
+  "name": "qrlibrary",
+  "version": "0.0.1-3",
+  "private": true,
+  "scripts": {
+    "start": "app.coffee"
+  },
+  "dependencies": {
+    "express": "~3.1.0",
+    "jade": "~0.28.0",
+    "coffee-script": "~1.4.0"
+  },
+  "subdomain": "qrlibrary",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
